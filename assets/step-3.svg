@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 80 80" width="80" height="80">
+  <defs>
+    <linearGradient id="goldS" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#FFB800" />
+      <stop offset="100%" stop-color="#FF7A1A" />
+    </linearGradient>
+  </defs>
+  <circle cx="40" cy="40" r="38" fill="#181A20" stroke="#2E333F" stroke-width="2" />
+  <!-- Bedtime Moon & Stars -->
+  <g transform="translate(22, 18)">
+    <path d="M 24,6 C 14,8 8,18 10,28 C 12,38 22,42 30,38 C 22,36 18,26 20,18 C 21,12 24,6 24,6 Z" fill="url(#goldS)" />
+    <!-- Stars -->
+    <polygon points="12,10 14,14 18,14 15,17 16,21 12,18 8,21 9,17 6,14 10,14" fill="#FFE082" transform="scale(0.6)" />
+    <polygon points="46,20 48,24 52,24 49,27 50,31 46,28 42,31 43,27 40,24 44,24" fill="#FFD54F" transform="scale(0.5)" />
+  </g>
+</svg>

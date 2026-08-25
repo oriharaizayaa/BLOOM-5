@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48" width="48" height="48">
+  <circle cx="24" cy="24" r="22" fill="#1A1D24" stroke="#FFB800" stroke-width="2" />
+  <text x="24" y="29" text-anchor="middle" font-family="'Outfit', sans-serif" font-weight="900" font-size="16" fill="#FFB800">30</text>
+  <text x="24" y="38" text-anchor="middle" font-family="'Plus Jakarta Sans', sans-serif" font-weight="700" font-size="6" fill="#E5E7EB">DAYS</text>
+</svg>
